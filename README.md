@@ -21,30 +21,9 @@
 
 > see: [ROADMAP.md](ROADMAP.md)
 
-## Changelogs
-- **[1.5.6]**
-  + Fix [#16](https://github.com/leecade/react-native-swiper/issues/16), [#36](https://github.com/leecade/react-native-swiper/issues/36), [#371](https://github.com/leecade/react-native-swiper/issues/371), [#410](https://github.com/leecade/react-native-swiper/issues/410), [#411](https://github.com/leecade/react-native-swiper/issues/411), [#422](https://github.com/leecade/react-native-swiper/issues/422), [#468](https://github.com/leecade/react-native-swiper/issues/468) Fix landscape orientation auto resize! (thanks [@ahmed3mar](https://github.com/ahmed3mar), [@timmywil](https://github.com/timmywil))
-  + Add containerStyle prop to customize the view container.
+# Use Case
+- 轮播
   
-- [1.5.5]
-  + Update: using PropTypes from prop-types and Change View.propTypes to ViewPropTypes
-
-
-- [1.5.4]
-  + Added easily accessible pagination point manipulation: use `dotColor` / `activeDotColor` and `dotStyle` / `activeDotStyle` (thanks [@denizs](https://github.com/denizs))
-  + Added scrollEnabled prop to documentation (thanks [@ibandominguez](https://github.com/ibandominguez))
-
-- [1.5.3]
-  + Add loadMinimalLoader prop to customize `<ActivityIndicator />` (thanks [@Exilz](https://github.com/Exilz))
-  + Disable autoplay timer when prop changes to false (thanks [@dizlexik](https://github.com/dizlexik))
-  + Special thanks to [@hypatiah](https://github.com/dizlexik) for fixed some grammatical errors in README
-
-- [1.5.2]
-  + Add yarn lock
-  + Fix jitter when quickly swiping back and forth between pages (iOS) (thanks [@nemophrost](https://github.com/nemophrost))
-  + The first webview always reloaded when injecting the rest of the children (thanks [@eosterberg](https://github.com/eosterberg))
-
-> see more: [CHANGELOG.md](CHANGELOG.md)
 
 ## Show Cases
 
